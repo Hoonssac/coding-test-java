@@ -29,7 +29,7 @@ public class Backjoon_2480 {
 			prize = Math.max(temp, c) * 100;
 		}
 		
-		System.out.println(prize);
+		System.out.println(	prize);
 		
 		sc.close();
 	}
