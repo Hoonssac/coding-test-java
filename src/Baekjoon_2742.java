@@ -1,15 +1,14 @@
 import java.util.Scanner;
 
-public class Backjoon_1001 {
+public class Baekjoon_2742 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		int a, b = 0;
+		int input = sc.nextInt();
 		
-		a = sc.nextInt();
-		b = sc.nextInt();
-		
-		System.out.println(a - b);
+		for (int i = input; i > 0; i--) {
+			System.out.println(i);
+		}
 		
 		sc.close();
 	}

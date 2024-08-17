@@ -1,4 +1,4 @@
-class Solution {
+class Programmers_12932 {
     
     public int[] solution(long n) {
         String input[] = Long.toString(n).split("");
