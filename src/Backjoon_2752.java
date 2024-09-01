@@ -17,5 +17,7 @@ public class Backjoon_2752 {
             System.out.print(numArr[i] + " ");
             
         }
+        
+        sc.close();
     }
 }
