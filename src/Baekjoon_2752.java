@@ -17,5 +17,7 @@ public class Baekjoon_2752 {
             System.out.print(numArr[i] + " ");
             
         }
+        
+        sc.close();
     }
 }
