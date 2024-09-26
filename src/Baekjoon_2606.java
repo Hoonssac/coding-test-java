@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Baekjoon__2606 {
+public class Baekjoon_2606 {
 	static int[][] graph;
 	static boolean[] visited;
 	static int answer = 0;
