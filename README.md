@@ -34,3 +34,5 @@
 - 2884번 [알람 시계](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_2884.java)
 - 9663번 [N-Queens](https://velog.io/@b1uesoda/%EB%B0%B1%EC%A4%80-9663%EB%B2%88-%EB%AC%B8%EC%A0%9C-N-Queen)
 - 2606번 [바이러스](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_2606.java)
+- 11725번 [트리의 부모 찾기](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_11725.java)
+- 3040번 [백설 공주와 일곱 난쟁이](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_3040.java)
