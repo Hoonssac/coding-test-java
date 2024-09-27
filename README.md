@@ -36,3 +36,6 @@
 - 2606번 [바이러스](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_2606.java)
 - 11725번 [트리의 부모 찾기](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_11725.java)
 - 3040번 [백설 공주와 일곱 난쟁이](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_3040.java)
+- 28278번 [스택 2](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_28278.java)
+- 2839번 [설탕 배달](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_2839.java)
+- 1244번 [스위치 켜고 끄기](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_1244.java)
