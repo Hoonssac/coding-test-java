@@ -39,3 +39,8 @@
 - 28278번 [스택 2](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_28278.java)
 - 2839번 [설탕 배달](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_2839.java)
 - 1244번 [스위치 켜고 끄기](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_1244.java)
+- 16435번 [스네이크 버드](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_16435.java)
+- 2164번 [카드 2](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_2164.java)
+- 15649번 [N과 M (1)](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_15649.java)
+- 15650번 [N과 M (2)](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_15650.java)
+  
