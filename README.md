@@ -43,4 +43,5 @@
 - 2164번 [카드 2](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_2164.java)
 - 15649번 [N과 M (1)](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_15649.java)
 - 15650번 [N과 M (2)](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_15650.java)
-  
+- 15651번 [N과 M (3)](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_15651.java)
+- 15652번 [N과 M (4)](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_15652.java)
