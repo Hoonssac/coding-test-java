@@ -45,3 +45,5 @@
 - 15650번 [N과 M (2)](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_15650.java)
 - 15651번 [N과 M (3)](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_15651.java)
 - 15652번 [N과 M (4)](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_15652.java)
+- 11659번 [구간 합 구하기 4](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_11659.java)
+- 1463번 [1로 만들기](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_1463.java)
