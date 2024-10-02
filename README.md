@@ -48,3 +48,6 @@
 - 11659번 [구간 합 구하기 4](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_11659.java)
 - 1463번 [1로 만들기](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_1463.java)
 - 9095번 [1,2,3 더하기](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_9095.java)
+- 2579번 [계단 오르기](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_2579.java)
+- 11726번 [2xn 타일링](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_11726.java)
+- 2961번 [도영이가 만든 맛있는 음식](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_2961.java)
