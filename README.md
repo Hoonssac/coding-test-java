@@ -51,3 +51,4 @@
 - 2579번 [계단 오르기](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_2579.java)
 - 11726번 [2xn 타일링](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_11726.java)
 - 2961번 [도영이가 만든 맛있는 음식](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_2961.java)
+- 12891번 [DNA 비밀번호](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_12891.java)
