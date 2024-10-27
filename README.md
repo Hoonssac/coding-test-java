@@ -59,3 +59,5 @@
 - 1303번 [전쟁 - 전투](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_1303.java)
 - 16926번 [배열 돌리기 1](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_16926.java)
 - 16918번 [봄버맨](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_16918.java)
+- 1388번 [바닥 장식](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_1388.java)
+- 16173번 [점프왕 쩰리](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_16173.java)
