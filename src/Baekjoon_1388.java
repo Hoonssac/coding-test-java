@@ -54,7 +54,7 @@ public class Baekjoon_1388 {
                 }
             }
         }
-        
+
         System.out.println(answer);
         sc.close();
     }
