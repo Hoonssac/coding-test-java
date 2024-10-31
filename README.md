@@ -61,3 +61,4 @@
 - 16918번 [봄버맨](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_16918.java)
 - 1388번 [바닥 장식](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_1388.java)
 - 16173번 [점프왕 쩰리](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_16173.java)
+- 14502번 [연구소](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_14502.java)
