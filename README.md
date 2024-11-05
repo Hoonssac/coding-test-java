@@ -63,3 +63,4 @@
 - 16173번 [점프왕 쩰리](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_16173.java)
 - 14502번 [연구소](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_14502.java)
 - 11724번 [연결 요소의 개수](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_11724.java)
+- 16236번 [아기 상어](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_16236.java)
