@@ -66,3 +66,6 @@
 - 16236번 [아기 상어](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_16236.java)
 - 2210번 [숫자판 점프](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_2210.java)
 - 16935번 [배열 돌리기 3](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_2210.java)
+- 15654번 [N과 M (5)](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_15654.java)
+- 11053번 [가장 긴 증가하는 부분 수열](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_11053.java)
+- 17144번 [미세먼지 안녕!](https://github.com/HOONSSAC/coding-test-java/blob/main/src/Baekjoon_17144.java)
