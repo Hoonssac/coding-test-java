@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e316e5a-f842-451d-89c5-2539602a1aa6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CodingTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Backjoon_2455.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Backjoon_2562.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Backjoon_2588.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_1001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_1008.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_1085.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_1260.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_1264.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_1271.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_1330.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2083.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2338.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2420.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2438.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2439.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2440.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2455.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2475.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2480.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2506.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2530.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2558.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2562.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2588.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2739.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2741.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2742.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2752.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon_2884.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Baekjoon__2606.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Programmers_12932.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2pNClp3T9MCkZFduVbGJFo4r3XN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Baekjoon_1001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baekjoon_1008.executor&quot;: &quot;Run&quot;,
+    &quot;Application.src.Baekjoon_1001.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/b1uesoda/work/coding-test-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Baekjoon_1001">
+    <configuration name="Baekjoon_1001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Baekjoon_1001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjoon_1008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon_1008" />
+      <module name="CodingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="src.Baekjoon_1001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Baekjoon_1001" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Baekjoon_1001" />
+        <item itemvalue="Application.src.Baekjoon_1001" />
+        <item itemvalue="Application.Baekjoon_1008" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e316e5a-f842-451d-89c5-2539602a1aa6" name="Changes" comment="" />
+      <created>1732597303481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732597303481</updated>
+      <workItem from="1732597303484" duration="1169000" />
+      <workItem from="1732598501430" duration="98000" />
+      <workItem from="1732598610633" duration="64000" />
+      <workItem from="1732598678917" duration="70000" />
+      <workItem from="1732598753241" duration="2000" />
+      <workItem from="1732598767473" duration="299000" />
+      <workItem from="1732716335829" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
