@@ -22,10 +22,10 @@ public class Baekjoon_1260 {
         queue = new LinkedList<Integer>();
         queue.add(start);
         visited[start] = true;
+        System.out.print(start + " ");
 
         while (!queue.isEmpty()) {
             int temp = queue.poll();
-            System.out.print(temp + " ");
             
             for (int i = 1; i <= size; i++) {
                 if (!visited[i] && graph[temp][i] == 1) {
